@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="js\data.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -76,42 +77,42 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Index.html" />
-    <Content Include="images\132215TpocRdYn.jpg" />
-    <Content Include="images\174058ACfwMGbg.jpg" />
-    <Content Include="images\174059TCjzlfRD.jpg" />
-    <Content Include="images\174100GUlPCSWt.jpg" />
-    <Content Include="images\174100TNYqWnrQ.jpg" />
-    <Content Include="images\174101cYaInAZV.jpg" />
-    <Content Include="images\174103iHLNoIUe.jpg" />
-    <Content Include="images\174103VsZPJaQX.jpg" />
-    <Content Include="images\174104WFhVHzPR.jpg" />
-    <Content Include="images\174105CXRvQgGA.jpg" />
-    <Content Include="images\20160122103802136_real.jpg" />
-    <Content Include="images\20160316100604793_real.png" />
-    <Content Include="images\20160316102415190_real.png" />
-    <Content Include="images\20160316102415472_real.png" />
-    <Content Include="images\20160316102415676_real.png" />
-    <Content Include="images\20160316102415683_real.png" />
-    <Content Include="images\20160316112112227_real.png" />
-    <Content Include="images\20160316112322804_real.jpg" />
-    <Content Include="images\20160316113123427_real.jpg" />
-    <Content Include="images\20160316113136239_real.png" />
-    <Content Include="images\20160316113136444_real.png" />
-    <Content Include="images\20160316113136691_real.png" />
-    <Content Include="images\20160316113137803_real.png" />
-    <Content Include="images\20160316113137878_real.png" />
-    <Content Include="images\20160316113137888_real.png" />
-    <Content Include="images\20160316114050463_real.jpg" />
-    <Content Include="images\20160316114101215_real.png" />
-    <Content Include="images\20160316114101310_real.png" />
-    <Content Include="images\20160316114101689_real.png" />
-    <Content Include="images\20160316114101709_real.png" />
-    <Content Include="images\20160316114101858_real.png" />
-    <Content Include="images\20160316114102755_real.png" />
-    <Content Include="images\20160322104507110_real.jpg" />
-    <Content Include="images\20160513140033633_real.png" />
-    <Content Include="images\20160514175051485_real.png" />
-    <Content Include="images\20160514175115350_real.jpg" />
+    <Content Include="static\poco\132215.jpg" />
+    <Content Include="static\poco\174058.jpg" />
+    <Content Include="static\poco\174059.jpg" />
+    <Content Include="static\poco\174100.jpg" />
+    <Content Include="static\poco\174106.jpg" />
+    <Content Include="static\poco\174101.jpg" />
+    <Content Include="static\poco\174103.jpg" />
+    <Content Include="static\poco\174102.jpg" />
+    <Content Include="static\poco\174104.jpg" />
+    <Content Include="static\poco\174105.jpg" />
+    <Content Include="static\uploadfile\2136_real.jpg" />
+    <Content Include="static\uploadfile\4793_real.png" />
+    <Content Include="static\uploadfile\5190_real.png" />
+    <Content Include="static\uploadfile\5472_real.png" />
+    <Content Include="static\uploadfile\5676_real.png" />
+    <Content Include="static\uploadfile\5683_real.png" />
+    <Content Include="static\uploadfile\2227_real.png" />
+    <Content Include="static\uploadfile\2804_real.jpg" />
+    <Content Include="static\uploadfile\3427_real.jpg" />
+    <Content Include="static\uploadfile\39_real.png" />
+    <Content Include="static\uploadfile\44_real.png" />
+    <Content Include="static\uploadfile\91_real.png" />
+    <Content Include="static\uploadfile\03_real.png" />
+    <Content Include="static\uploadfile\78_real.png" />
+    <Content Include="static\uploadfile\88_real.png" />
+    <Content Include="static\uploadfile\0463_real.jpg" />
+    <Content Include="static\uploadfile\1215_real.png" />
+    <Content Include="static\uploadfile\1310_real.png" />
+    <Content Include="static\uploadfile\1689_real.png" />
+    <Content Include="static\uploadfile\1709_real.png" />
+    <Content Include="static\uploadfile\1858_real.png" />
+    <Content Include="static\uploadfile\2755_real.png" />
+    <Content Include="static\uploadfile\7110_real.jpg" />
+    <Content Include="static\uploadfile\3633_real.png" />
+    <Content Include="static\uploadfile\1485_real.png" />
+    <Content Include="static\uploadfile\5350_real.jpg" />
     <Content Include="images\btn01_arrow.png" />
     <Content Include="images\heartd01.png" />
     <Content Include="images\loading.gif" />

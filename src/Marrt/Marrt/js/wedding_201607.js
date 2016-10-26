@@ -498,7 +498,7 @@ function(a) {
 		}
 		bgarea.prependTo(b), 
 		bgarea=bgarea.get(0);
-		return a.properties.imgSrc && (c = a.properties.imgSrc, /^http.*/.test(c) ? (d.src = c, bgarea.style.backgroundImage = "url(" + c + ")") : (d.src = PREFIX_FILE_HOST + "/" + c, bgarea.style.backgroundImage = "url(" + PREFIX_FILE_HOST + "/" + c + ")"), bgarea.style.backgroundOrigin = "element content-box", bgarea.style.backgroundSize = "cover", bgarea.style.backgroundPosition = "50% 50%"), a.properties.bgColor && (bgarea.style.backgroundColor = a.properties.bgColor),b
+		return a.properties.imgSrc && (c = a.properties.imgSrc, /^http.*/.test(c) ? (d.src = c, bgarea.style.backgroundImage = "url(" + c + ")") : (d.src = PREFIX_FILE_HOST + c, bgarea.style.backgroundImage = "url(" + PREFIX_FILE_HOST + c + ")"), bgarea.style.backgroundOrigin = "element content-box", bgarea.style.backgroundSize = "cover", bgarea.style.backgroundPosition = "50% 50%"), a.properties.bgColor && (bgarea.style.backgroundColor = a.properties.bgColor),b
 	}), e.addComponent("4", function(a) {
 		var b = document.createElement("img");
 		b.id = a.id, b.setAttribute("ctype", a.type), b.setAttribute("class", "element comp_image editable-image"), b.src = /^http.*/.test(a.properties.src) ? a.properties.src : PREFIX_FILE_HOST + a.properties.src;
@@ -1817,6 +1817,7 @@ function(a, b) {
 		});
 	}
 	function getRequestUrl() {
+	    return "js/data.json";
 		var a;
 		return PREFIX_S1_URL + "jsonwedding/" + sceneId+".html?time=" + (new Date).getTime()
 	}
@@ -1848,7 +1849,7 @@ function(a, b) {
 		crossDomain: !0
 	}).done(function(a) {
 		parseJson(a)
-	});
+    });
 	var imgUrl, descContent, shareTitle
 }(window, jQuery), $(".main").show(), $.easing.jswing = $.easing.swing, $.extend($.easing, {
 	def: "easeOutQuad",
