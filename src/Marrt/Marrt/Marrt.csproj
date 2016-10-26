@@ -77,16 +77,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Index.html" />
-    <Content Include="static\poco\132215.jpg" />
-    <Content Include="static\poco\174058.jpg" />
-    <Content Include="static\poco\174059.jpg" />
-    <Content Include="static\poco\174100.jpg" />
-    <Content Include="static\poco\174106.jpg" />
-    <Content Include="static\poco\174101.jpg" />
-    <Content Include="static\poco\174103.jpg" />
-    <Content Include="static\poco\174102.jpg" />
-    <Content Include="static\poco\174104.jpg" />
-    <Content Include="static\poco\174105.jpg" />
+    <Content Include="static\poco\7.jpg" />
+    <Content Include="static\poco\8.jpg" />
+    <Content Include="static\poco\9.jpg" />
+    <Content Include="static\poco\0.jpg" />
+    <Content Include="static\poco\6.jpg" />
+    <Content Include="static\poco\1.jpg" />
+    <Content Include="static\poco\3.jpg" />
+    <Content Include="static\poco\2.jpg" />
+    <Content Include="static\poco\4.jpg" />
+    <Content Include="static\poco\5.jpg" />
     <Content Include="static\uploadfile\2136_real.jpg" />
     <Content Include="static\uploadfile\4793_real.png" />
     <Content Include="static\uploadfile\5190_real.png" />
@@ -102,8 +102,8 @@
     <Content Include="static\uploadfile\03_real.png" />
     <Content Include="static\uploadfile\78_real.png" />
     <Content Include="static\uploadfile\88_real.png" />
-    <Content Include="static\uploadfile\0463_real.jpg" />
-    <Content Include="static\uploadfile\1215_real.png" />
+    <Content Include="static\uploadfile\63_real.jpg" />
+    <Content Include="static\uploadfile\15_real.png" />
     <Content Include="static\uploadfile\1310_real.png" />
     <Content Include="static\uploadfile\1689_real.png" />
     <Content Include="static\uploadfile\1709_real.png" />
