@@ -683,7 +683,7 @@
             "sid": "2",
             "sort": "2",
             "type": "2",
-            "content": "<div style=\"text-align: center;\"><span style=\"font-size: medium; color: inherit; line-height: inherit; background-color: initial;\">\u5e2d\u8bbe\u9152\u5e97\uff1a\u94c2\u5c14\u66fc\u9152\u5e97<\/span><\/div><div style=\"text-align: center;\"><font size=\"3\">\u8be6\u7ec6\u5730\u5740\uff1a\u4e07\u8fbe\u5e7f\u573a<\/font><\/div>",
+            "content": "<div style=\"text-align: center;\"><span style=\"font-size: medium; color: inherit; line-height: inherit; background-color: initial;\">\u5e2d\u8bbe\u9152\u5e97\uff1a\u60a6\u7f18\u5927\u9152\u5e97<\/span><\/div><div style=\"text-align: center;\"><font size=\"3\">\u8be6\u7ec6\u5730\u5740\uff1a\u4e07\u8fbe\u5e7f\u573a<\/font><\/div>",
             "css": {
               "top": 99.999992370605,
               "left": 0,
@@ -801,263 +801,6 @@
             },
             "id": "4737-5",
             "pageId": "4737",
-            "sceneId": "407"
-          }
-        ]
-	    }, {
-        "id": "4746",
-        "mid": "407",
-        "sort": "8",
-        "name": "", 
-        "properties": false, "timeline": "6", "sceneId": "407", "num": 8,
-        "elements": [
-          {
-            "pid": "4746",
-            "sid": "1",
-            "sort": "0",            
-            "type": "3",
-            "content": "",
-            "css": { "zIndex": 1 },
-            "properties": {
-              "bgColor": null,
-              "imgSrc": "\/static\/uploadfile\/63_real.jpg"
-            },
-            "id": "4746-1",
-            "pageId": "4746",
-            "sceneId": "407"
-          },
-          {
-            "pid": "4746",
-            "sid": "2",
-            "sort": "1",
-            "type": "4",
-            "content": "",
-            "css": {
-              "top": 24,
-              "left": 20,
-              "zIndex": 2,
-              "width": 279,
-              "height": 468
-            },
-            "properties": {
-              "width": 279,
-              "height": 468,
-              "src": "\/static\/uploadfile\/1310_real.png",
-              "imgStyle": {
-                "width": 279,
-                "height": 469,
-                "marginTop": "-0.5px",
-                "marginLeft": "0px"
-              },
-              "anim": [
-                {
-                  "type": 1,
-                  "direction": 0,
-                  "duration": 1,
-                  "delay": 0,
-                  "countNum": 1,
-                  "count": ""
-                }
-              ],
-              "url": ""
-            },
-            "id": "4746-2",
-            "pageId": "4746",
-            "sceneId": "407"
-          },
-          {
-            "pid": "4746",
-            "sid": "3",
-            "sort": "2",
-            "type": "4",
-            "content": "",
-            "css": {
-              "top": 56,
-              "left": 81,
-              "zIndex": 3,
-              "width": 160,
-              "height": 44
-            },
-            "properties": {
-              "width": 160,
-              "height": 44,
-              "src": "\/static\/uploadfile\/15_real.png",
-              "imgStyle": {
-                "width": 160,
-                "height": 44,
-                "marginTop": "0px",
-                "marginLeft": "0px"
-              },
-              "anim": [
-                {
-                  "type": 1,
-                  "direction": 1,
-                  "duration": 0.8,
-                  "delay": 1,
-                  "countNum": 1,
-                  "count": ""
-                }
-              ],
-              "url": ""
-            },
-            "id": "4746-3",
-            "pageId": "4746",
-            "sceneId": "407"
-          },
-          {
-            "pid": "4746",
-            "sid": "4",
-            "sort": "3",
-            "type": "4",
-            "content": "",
-            "css": {
-              "top": 136,
-              "left": 120,
-              "zIndex": 4,
-              "width": 91,
-              "height": 149
-            },
-            "properties": {
-              "width": 91,
-              "height": 149,
-              "src": "\/static\/uploadfile\/1709_real.png",
-              "imgStyle": {
-                "width": 91,
-                "height": 149,
-                "marginTop": "0px",
-                "marginLeft": "0px"
-              },
-              "anim": [
-                {
-                  "type": 0,
-                  "direction": 0,
-                  "duration": 1.5,
-                  "delay": 1.5,
-                  "countNum": 1,
-                  "count": ""
-                }
-              ],
-              "url": ""
-            },
-            "id": "4746-4",
-            "pageId": "4746",
-            "sceneId": "407"
-          },
-          {
-            "pid": "4746",
-            "sid": "5",
-            "sort": "4",
-            "type": "4",
-            "content": "",
-            "css": {
-              "top": 337,
-              "left": 90,
-              "zIndex": 5,
-              "width": 142,
-              "height": 39
-            },
-            "properties": {
-              "width": 142,
-              "height": 39,
-              "src": "\/static\/uploadfile\/1858_real.png",
-              "imgStyle": {
-                "width": 142,
-                "height": 39,
-                "marginTop": "0px",
-                "marginLeft": "0px"
-              },
-              "anim": [
-                {
-                  "type": 1,
-                  "direction": 2,
-                  "duration": 1.5,
-                  "delay": 1.8,
-                  "countNum": 1,
-                  "count": ""
-                }
-              ],
-              "url": "iframe:\/\/wp.7192.com\/words_347.html?cmuid=578319"
-            },
-            "id": "4746-5",
-            "pageId": "4746",
-            "sceneId": "407"
-          },
-          {
-            "pid": "4746",
-            "sid": "6",
-            "sort": "5",
-            "type": "4",
-            "content": "",
-            "css": {
-              "top": 381,
-              "left": 93,
-              "zIndex": 6,
-              "width": 135,
-              "height": 37
-            },
-            "properties": {
-              "width": 135,
-              "height": 37,
-              "src": "\/static\/uploadfile\/1689_real.png",
-              "imgStyle": {
-                "width": 140,
-                "height": 37,
-                "marginTop": "0px",
-                "marginLeft": "-2px"
-              },
-              "anim": [
-                {
-                  "type": 1,
-                  "direction": 2,
-                  "duration": 1.5,
-                  "delay": 1.8,
-                  "countNum": 1,
-                  "count": ""
-                }
-              ],
-              "url": "iframe:\/\/wp.7192.com\/eicinfo_578319.html"
-            },
-            "id": "4746-6",
-            "pageId": "4746",
-            "sceneId": "407"
-          },
-          {
-            "pid": "4746",
-            "sid": "7",
-            "sort": "6",
-            "type": "4",
-            "content": "",
-            "css": {
-              "top": 291.984375,
-              "left": 90.984375,
-              "zIndex": 7,
-              "width": 142,
-              "height": 39
-            },
-            "properties": {
-              "width": 142,
-              "height": 39,
-              "src": "\/static\/uploadfile\/2755_real.png",
-              "imgStyle": {
-                "width": 142,
-                "height": 40,
-                "marginTop": "-1px",
-                "marginLeft": "0px"
-              },
-              "anim": [
-                {
-                  "type": 1,
-                  "direction": 2,
-                  "duration": 1.5,
-                  "delay": 1.8,
-                  "countNum": 1,
-                  "count": ""
-                }
-              ],
-              "url": "iframe:\/\/wp.7192.com\/getinfo_578319.html"
-            },
-            "id": "4746-7",
-            "pageId": "4746",
             "sceneId": "407"
           }
         ]
@@ -1244,7 +987,7 @@
             "properties": {
               "width": 120,
               "height": 33,
-              "src": "\/static\/uploadfile\/03_real.png",
+              "src": "/static/uploadfile/03_real.png",
               "imgStyle": {
                 "width": 122,
                 "height": 33,
@@ -1261,7 +1004,7 @@
                   "count": ""
                 }
               ],
-              "url": "tel:18025697462"
+              "url": "tel:13952768683"
             },
             "id": "4744-6",
             "pageId": "4744",
@@ -1283,7 +1026,7 @@
             "properties": {
               "width": 116,
               "height": 32,
-              "src": "\/static\/uploadfile\/88_real.png",
+              "src": "/static/uploadfile/88_real.png",
               "imgStyle": {
                 "width": 117,
                 "height": 34,
@@ -1300,7 +1043,7 @@
                   "count": ""
                 }
               ],
-              "url": "tel:14782589328"
+              "url": "tel:13852581179"
             },
             "id": "4744-7",
             "pageId": "4744",
