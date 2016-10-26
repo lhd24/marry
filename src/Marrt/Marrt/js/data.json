@@ -3,24 +3,24 @@
 	    "obj": {
 	        "id": "407", "userid": "114197", "catid": "1", "name": "Sweet Wishes", "dsp": "", "scaleMode": "1", "pageMode": "0", "pageSync": "0",
 	        "thumb": "\/static\/uploadfile\/20160316115235509_real.jpg", "isSys": "0", "isTpl": "0", "isPromotion": "0", "status": "1", "openLimit": "0", "startDate": "0", "endDate": "0", "addtime": "1458090769", "updatetime": "1458090769", "sourceId": "0", "code": "", "hits": "20", "sort": "0", "bgInfo": [],
-	        "bgAudio": "{\"url\":\"http:\/\/ws.stream.qqmusic.qq.com\/774857.m4a?fromtag=30\",\"type\":\"1\"}", "extra": "", "cssStr": "", "sceneId": "407", "adSta": 1, "property": { "triggerLoop": true }, "djs": "1526788800", "zanSta": []
+	        "bgAudio": "{\"url\":\"http:\/\/ws.stream.qqmusic.qq.com\/774857.m4a?fromtag=30\",\"type\":\"1\"}", "extra": "", "cssStr": "", "sceneId": "407", "adSta": 1, "property": { "triggerLoop": true }, "djs": "1478793600", "zanSta": []
 	    }, "map": false,
 	    "list": [{
 	        "id": "4724", "mid": "407", "sort": "1", "name": "", "properties": false, "timeline": "7", "sceneId": "407", "num": 1,
 	        "elements": [{
-	            "pid": "4724", "sid": "1", "sort": "0", "type": "4", "content": "", "css": { "top": -56, "left": -35, "zIndex": 1, "width": 374, "height": 576 },
+	            "pid": "4724", "sid": "1", "sort": "0", "type": "4", "content": "", "css": { "top": -32, "left": -35, "zIndex": 1, "width": 374, "height": 576 },
 	            "properties": { "width": 384, "height": 576, "src": "\/static\/poco\/4.jpg", "imgStyle": { "width": 384, "height": 576, "marginTop": "0px", "marginLeft": "-5px" }, "anim": [{ "type": 0, "direction": 0, "duration": 0.5, "delay": 0, "countNum": 1, "count": "" }], "url": "", "clc": "edit_move" }, "id": "4724-1", "pageId": "4724", "sceneId": "407"
 	        }, {
-	            "pid": "4724", "sid": "2", "sort": "1", "type": "4", "content": "", "css": { "top": 274, "left": -40, "zIndex": 2, "width": 400, "height": 185 },
+	            "pid": "4724", "sid": "2", "sort": "1", "type": "4", "content": "", "css": { "top": 30, "left": -40, "zIndex": 2, "width": 400, "height": 185 },
 	            "properties": { "width": 400, "height": 185, "src": "\/static\/uploadfile\/4793_real.png", "imgStyle": { "width": 400, "height": 224, "marginTop": "-9.5px", "marginLeft": "0px" }, "anim": [{ "type": 0, "direction": 0, "duration": 0.5, "delay": 0, "countNum": 1, "count": "" }], "url": "" }, "id": "4724-2", "pageId": "4724", "sceneId": "407"
 	        }, {
-	            "pid": "4724", "sid": "3", "sort": "2", "type": "4", "content": "", "css": { "top": 292, "left": 33, "zIndex": 3, "width": 256, "height": 48 },
+	            "pid": "4724", "sid": "3", "sort": "2", "type": "4", "content": "", "css": { "top": 48, "left": 33, "zIndex": 3, "width": 256, "height": 48 },
 	            "properties": { "width": 256, "height": 48, "src": "\/static\/uploadfile\/3633_real.png", "imgStyle": { "width": 268, "height": 48, "marginTop": "0px", "marginLeft": "-6px" }, "anim": [{ "type": 2, "direction": 3, "duration": 2, "delay": 0, "countNum": 1, "count": "" }], "url": "" }, "id": "4724-3", "pageId": "4724", "sceneId": "407"
 	        }, {
-	            "pid": "4724", "sid": "4", "sort": "3", "type": "2", "content": "<div style=\"text-align: center;\"><span style=\"font-size: medium; color: inherit; line-height: inherit; background-color: initial;\">2018\u5e7405\u670820\u65e512:00<\/span><\/div>", "css": { "top": 342, "left": 0, "zIndex": 4, "height": 36, "width": 320, "color": "rgba(255,255,255,1)" },
+	            "pid": "4724", "sid": "4", "sort": "3", "type": "2", "content": "<div style=\"text-align: center;\"><span style=\"font-size: medium; color: inherit; line-height: inherit; background-color: initial;\">2016\u5e7411\u670811\u65e518:18<\/span><\/div>", "css": { "top": 98, "left": 0, "zIndex": 4, "height": 36, "width": 320, "color": "rgba(255,255,255,1)" },
 	            "properties": { "width": 320, "height": 36, "anim": [{ "type": 0, "direction": 0, "duration": 2, "delay": 1.5, "countNum": 1, "count": "" }] }, "id": "4724-4", "pageId": "4724", "sceneId": "407"
 	        }, {
-	            "pid": "4724", "sid": "5", "sort": "4", "type": "2", "content": "<div style=\"text-align: center;\"><span style=\"font-size: medium; color: inherit; line-height: inherit; background-color: initial;\">\u8ddd\u79bb\u7ed3\u5a5a\u5178\u793c\u8fd8\u6709<\/span><\/div><div style=\"text-align: center;\"><span style=\"font-size: medium; color: inherit; line-height: inherit; background-color: initial;\"><span class=\"djs_item\" rel=\"1526788800\"><\/span><\/span><\/div>", "css": { "top": 377, "left": 0, "zIndex": 5, "height": 63, "width": 320, "color": "rgba(255,255,255,1)" },
+	            "pid": "4724", "sid": "5", "sort": "4", "type": "2", "content": "<div style=\"text-align: center;\"><span style=\"font-size: medium; color: inherit; line-height: inherit; background-color: initial;\">\u8ddd\u79bb\u7ed3\u5a5a\u5178\u793c\u8fd8\u6709<\/span><\/div><div style=\"text-align: center;\"><span style=\"font-size: medium; color: inherit; line-height: inherit; background-color: initial;\"><span class=\"djs_item\" rel=\"1478793600\"><\/span><\/span><\/div>", "css": { "top": 133, "left": 0, "zIndex": 5, "height": 63, "width": 320, "color": "rgba(255,255,255,1)" },
 	            "properties": { "width": 320, "height": 63, "anim": [{ "type": 0, "direction": 0, "duration": 2, "delay": 2, "countNum": 1, "count": "" }] }, "id": "4724-5", "pageId": "4724", "sceneId": "407"
 	        }]
 	    }, {
@@ -31,7 +31,7 @@
             "sid": "2",
             "sort": "1",
             "type": "2",
-            "content": "<div style=\"text-align: center;\"><span style=\"font-size: large; color: inherit; line-height: inherit; background-color: initial;\"><span class=\"djs_xl_xn\">\u674e\u5764<\/span>&amp;<span class=\"djs_xl_xn\">\u97e9\u5a07<\/span><\/span><\/div>",
+            "content": "<div style=\"text-align: center;\"><span style=\"font-size: large; color: inherit; line-height: inherit; background-color: initial;\"><span class=\"djs_xl_xn\">\u9646\u519b<\/span>&amp;<span class=\"djs_xl_xn\">\u5218\u6d77\u96ea<\/span><\/span><\/div>",
             "css": {
               "top": 159,
               "left": 55,
@@ -63,7 +63,7 @@
             "sid": "3",
             "sort": "2",
             "type": "2",
-            "content": "<div style=\"text-align: center;\"><span style=\"font-size: large; color: inherit; line-height: inherit; background-color: initial;\">2018\u5e7405\u670820\u65e512:00<\/span><\/div>",
+            "content": "<div style=\"text-align: center;\"><span style=\"font-size: large; color: inherit; line-height: inherit; background-color: initial;\">2016\u5e7411\u670811\u65e518:18<\/span><\/div>",
             "css": {
               "top": 280,
               "left": 0,
@@ -425,14 +425,14 @@
               "height": 520
             },
             "properties": {
-              "width": 789,
-              "height": 526.67522464698,
+              "width": 406,
+              "height": 609,
               "src": "\/static\/poco\/2.jpg",
               "imgStyle": {
-                "width": 789,
-                "height": 526.67522464698,
+                "width": 406,
+                "height": 609,
                 "marginTop": "0px",
-                "marginLeft": "-201px",
+                "marginLeft": "0px",
                 "top": -1,
                 "left": 3
               },
@@ -468,14 +468,14 @@
               "height": 520
             },
             "properties": {
-              "width": 376,
-              "height": 564,
-              "src": "\/static\/poco\/5.jpg",
+              "width": 789,
+              "height": 526.67522464698,
+              "src": "/static/poco/5.jpg",
               "imgStyle": {
-                "width": 376,
-                "height": 564,
-                "marginTop": "-22px",
-                "marginLeft": "0px"
+                "width": 789,
+                "height": 526.67522464698,
+                "marginTop": "17px",
+                "marginLeft": "-355px"
               },
               "url": "",
               "anim": [
@@ -509,14 +509,14 @@
               "height": 520
             },
             "properties": {
-              "width": 426,
-              "height": 639,
-              "src": "\/static\/poco\/1.jpg",
+              "width": 789,
+              "height": 526.67522464698,
+              "src": "/static/poco/1.jpg",
               "imgStyle": {
-                "width": 426,
-                "height": 639,
-                "marginTop": "-22px",
-                "marginLeft": "0px",
+                "width": 789,
+                "height": 526.67522464698,
+                "marginTop": "38px",
+                "marginLeft": "-154px",
                 "top": -45,
                 "left": -30
               },
@@ -601,16 +601,14 @@
               "height": 594
             },
             "properties": {
-              "width": 799,
-              "height": 531.34981458591,
-              "src": "\/static\/poco\/8.jpg",
+              "width": 852,
+              "height": 571.675,
+              "src": "/static/poco/8.jpg",
               "imgStyle": {
-                "width": 799,
-                "height": 531.34981458591,
-                "marginTop": "0px",
-                "marginLeft": "-255px",
-                "top": 42,
-                "left": -146
+                "width": 852,
+                "height": 571.675,
+                "margin-top": "34px",
+                "margin-left": "-306px"
               },
               "url": "",
               "anim": [
@@ -643,14 +641,16 @@
               "height": 594
             },
             "properties": {
-              "width": 396,
-              "height": 594,
-              "src": "\/static\/poco\/9.jpg",
+              "width": 460,
+              "height": 673,
+              "src": "/static/poco/9.jpg",
               "imgStyle": {
-                "width": 396,
-                "height": 594,
+                "width": 460,
+                "height": 673,
                 "marginTop": "0px",
-                "marginLeft": "-9px"
+                "marginLeft": "-50px",
+                "top": -86,
+                "left": -20
               },
               "url": "",
               "anim": [
@@ -668,64 +668,6 @@
             },
             "id": "4782-4",
             "pageId": "4782",
-            "sceneId": "407"
-          }
-        ]
-	    }, {
-        "id": "4733",
-        "mid": "407",
-        "sort": "6",
-        "name": "tuji", 
-        "properties": false, "timeline": "6", "sceneId": "407", "num": 6,
-        "elements": [
-          {
-            "pid": "4733",
-            "sid": "2",
-            "sort": "1",
-            "type": "p",            
-            "content": "",
-            "css": {
-              "top": -28,
-              "left": -24,
-              "zIndex": 2,
-              "width": 361,
-              "height": 572
-            },
-            "properties": {
-              "title": "\u56fe\u96c6",
-              "children": [
-                {
-                  "$$hashKey": 1,
-                  "desc": "20150720040744185.jpg",
-                  "height": "1050",
-                  "width": "700",
-                  "src": "\/static\/poco\/6.jpg"
-                }
-              ],
-              "autoPlay": 1,
-              "interval": 3000,
-              "picStyle": 1,
-              "bgColor": "#000",
-              "width": 361,
-              "height": 572
-            },
-            "id": "4733-2",
-            "pageId": "4733",
-            "sceneId": "407"
-          },
-          {
-            "pid": "4733",
-            "sid": "1",
-            "sort": "2",
-            "type": "3",
-            "content": "",
-            "css": { "zIndex": 1 },
-            "properties": {
-              "bgColor": null,
-              "imgSrc": "\/static\/uploadfile\/7110_real.jpg"
-            },
-            "id": "4733-1",
-            "pageId": "4733",
             "sceneId": "407"
           }
         ]
@@ -1268,16 +1210,16 @@
               "height": 191
             },
             "properties": {
-              "width": 216,
+              "width": 505,
               "height": 324,
-              "src": "\/static\/poco\/174106.jpg",
+              "src": "\/static\/poco\/6.jpg",
               "imgStyle": {
-                "width": 216,
+                "width": 505,
                 "height": 324,
                 "marginTop": "-119px",
                 "marginLeft": "0px",
                 "top": 96,
-                "left": 34
+                "left": -101
               },
               "url": "",
               "clc": "edit_move"
