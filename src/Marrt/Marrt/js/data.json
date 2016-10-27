@@ -683,7 +683,7 @@
             "sid": "2",
             "sort": "2",
             "type": "2",
-            "content": "<div style=\"text-align: center;\"><span style=\"font-size: medium; color: inherit; line-height: inherit; background-color: initial;\">\u5e2d\u8bbe\u9152\u5e97\uff1a\u60a6\u7f18\u5927\u9152\u5e97<\/span><\/div><div style=\"text-align: center;\"><font size=\"3\">\u8be6\u7ec6\u5730\u5740\uff1a\u4e07\u8fbe\u5e7f\u573a<\/font><\/div>",
+            "content": "<div style=\"text-align: center;\"><span style=\"font-size: medium; color: inherit; line-height: inherit; background-color: initial;\">\u5e2d\u8bbe\u9152\u5e97\uff1a\u60a6\u7f18\u5927\u9152\u5e97<\/span><\/div><div style=\"text-align: center;\"><font size=\"3\">\u8be6\u7ec6\u5730\u5740\uff1a\u4ed9\u57ce\u8def\u597d\u58f0\u97f3\u006b\u0074\u0076\u697c\u4e0b\u0020<\/font><\/div>",
             "css": {
               "top": 99.999992370605,
               "left": 0,
@@ -743,7 +743,7 @@
                   "count": ""
                 }
               ],
-              "url": "http:\/\/api.map.baidu.com\/marker?location=36.723804,119.135627&title=\u4f4d\u7f6e\u5bfc\u822a&content=\u4e07\u8fbe\u5e7f\u573a&output=html"
+              "url": "http:\/\/api.map.baidu.com\/marker?location=32.444044,119.571928&title=\u4f4d\u7f6e\u5bfc\u822a&content=\u60a6\u7f18\u5927\u9152\u5e97&output=html"
             },
             "id": "4737-3",
             "pageId": "4737",
@@ -780,7 +780,7 @@
             "properties": {
               "width": 284,
               "height": 218,
-              "src": "http:\/\/api.map.baidu.com\/staticimage?center=119.135627,36.723804&width=284&height=218&scale=2&markers=119.135627,36.723804&zoom=17",
+              "src": "http:\/\/api.map.baidu.com\/staticimage?center=119.571928,32.444044&width=284&height=218&scale=2&markers=119.571928,32.444044&zoom=17",
               "imgStyle": {
                 "width": 284,
                 "height": 221,
@@ -797,7 +797,7 @@
                   "count": ""
                 }
               ],
-              "url": "http:\/\/api.map.baidu.com\/marker?location=36.723804,119.135627&title=\u4f4d\u7f6e\u5bfc\u822a&content=\u4e07\u8fbe\u5e7f\u573a&output=html"
+              "url": "http:\/\/api.map.baidu.com\/marker?location=32.444044,119.571928&title=\u4f4d\u7f6e\u5bfc\u822a&content=\u60a6\u7f18\u5927\u9152\u5e97&output=html"
             },
             "id": "4737-5",
             "pageId": "4737",
