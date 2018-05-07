@@ -24,6 +24,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -78,6 +79,168 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Index.html" />
+    <Content Include="static\poco\pic\20180131\IMG_20180202_222017.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180202_222223.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180205_093603.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180205_193901.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180207_103815.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180207_103932.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180209_095449.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180210_173846.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180210_215834.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180211_093945.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180211_093947.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180213_200251.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180303_124955.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180303_124958.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180303_125000.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180304_083315.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180307_115934.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180403_101306.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180403_201039.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180405_133723_1.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180410_075749.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180416_154051.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180417_122529.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180417_171306.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180418_111044.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180419_113419.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180419_115658.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180419_115659.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180419_115703.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180420_172327.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180421_211322.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180422_115314.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180422_121340.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180422_131513.jpg" />
+    <Content Include="static\poco\pic\20180131\IMG_20180501_094028.jpg" />
+    <Content Include="static\poco\pic\20180206d\IMG_20180206_204949.jpg" />
+    <Content Include="static\poco\pic\20180206d\IMG_20180206_205008.jpg" />
+    <Content Include="static\poco\pic\20180206d\IMG_20180206_205013.jpg" />
+    <Content Include="static\poco\pic\20180206d\IMG_20180206_205017.jpg" />
+    <Content Include="static\poco\pic\20180206d\IMG_20180206_205019.jpg" />
+    <Content Include="static\poco\pic\20180206d\IMG_20180206_205024.jpg" />
+    <Content Include="static\poco\pic\20180206d\IMG_20180206_205038.jpg" />
+    <Content Include="static\poco\pic\20180206d\IMG_20180206_205044.jpg" />
+    <Content Include="static\poco\pic\20180208\IMG_20180208_223645.jpg" />
+    <Content Include="static\poco\pic\20180208\IMG_20180208_223703.jpg" />
+    <Content Include="static\poco\pic\20180208\IMG_20180208_223719.jpg" />
+    <Content Include="static\poco\pic\20180208\IMG_20180208_223721_1.jpg" />
+    <Content Include="static\poco\pic\20180208\IMG_20180208_223734.jpg" />
+    <Content Include="static\poco\pic\20180208\IMG_20180208_223744.jpg" />
+    <Content Include="static\poco\pic\20180301\IMG_0009-2.jpg" />
+    <Content Include="static\poco\pic\20180301\IMG_0009-3.JPG" />
+    <Content Include="static\poco\pic\20180301\IMG_0053-2.JPG" />
+    <Content Include="static\poco\pic\20180301\IMG_0060-2.JPG" />
+    <Content Include="static\poco\pic\20180301\IMG_0068-2.JPG" />
+    <Content Include="static\poco\pic\20180301\IMG_0071.JPG" />
+    <Content Include="static\poco\pic\20180301\IMG_0073-2.JPG" />
+    <Content Include="static\poco\pic\20180301\IMG_0077-2.JPG" />
+    <Content Include="static\poco\pic\20180301\IMG_0087.JPG" />
+    <Content Include="static\poco\pic\20180301\IMG_0009-1.JPG" />
+    <Content Include="static\poco\pic\20180426\0G3A0004_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0007_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0008_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0009_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0012_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0025_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0039_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0042_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0045_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0061_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0068_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0071_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0073_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0082_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0084_1.jpg" />
+    <Content Include="static\poco\pic\20180426\0G3A0093_1.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094047.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094052.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094054.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094055_1.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094056_1.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094057_1.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094058_1.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094059_1.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094101.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094102_1.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094103_1.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094106.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094107.jpg" />
+    <Content Include="static\poco\pic\20180330\IMG_20180330_094110.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165145.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165148.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165151.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165151_1.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165152_1.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165153.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165153_2.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165154.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165154_2.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165155_1.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165156_2.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165157_1.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165157_2.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165200_1.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165201.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165202_1.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165202_2.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165203.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165204.jpg" />
+    <Content Include="static\poco\pic\20180403\IMG_20180403_165204_2.jpg" />
+    <Content Include="static\poco\pic\20180415\IMG_20180415_162113.jpg" />
+    <Content Include="static\poco\pic\20180415\IMG_20180415_162116.jpg" />
+    <Content Include="static\poco\pic\20180415\IMG_20180415_162116_1.jpg" />
+    <Content Include="static\poco\pic\20180415\IMG_20180415_162143.jpg" />
+    <Content Include="static\poco\pic\20180415\IMG_20180415_162143_1.jpg" />
+    <Content Include="static\poco\pic\20180415\IMG_20180415_162148.jpg" />
+    <Content Include="static\poco\pic\20180416\IMG_20180416_152814.jpg" />
+    <Content Include="static\poco\pic\20180416\IMG_20180416_152823.jpg" />
+    <Content Include="static\poco\pic\20180416\IMG_20180416_152823_2.jpg" />
+    <Content Include="static\poco\pic\20180416\IMG_20180416_152825.jpg" />
+    <Content Include="static\poco\pic\20180416\IMG_20180416_152825_2.jpg" />
+    <Content Include="static\poco\pic\20180416\IMG_20180416_152826.jpg" />
+    <Content Include="static\poco\pic\20180416\IMG_20180416_152828.jpg" />
+    <Content Include="static\poco\pic\20180416\IMG_20180416_152938.jpg" />
+    <Content Include="static\poco\pic\20180416\IMG_20180416_152939.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180417.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180419.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180432.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180432_1.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180448.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180454.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180455.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180456.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180456_1.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180500.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180500_1.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180507.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180551.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180556.jpg" />
+    <Content Include="static\poco\pic\20180418\IMG_20180418_180737.jpg" />
+    <Content Include="static\poco\pic\20180322\IMG_20180322_203511.jpg" />
+    <Content Include="static\poco\pic\20180322\IMG_20180322_203530.jpg" />
+    <Content Include="static\poco\pic\20180322\IMG_20180322_203535.jpg" />
+    <Content Include="static\poco\pic\20180322\IMG_20180322_203539.jpg" />
+    <Content Include="static\poco\pic\20180322\IMG_20180322_203544.jpg" />
+    <Content Include="static\poco\pic\20180322\IMG_20180322_203628.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113255.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113305.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113326.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113326_1.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113327.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113338.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113339.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113340_1.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113346.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113351.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113431.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113440.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113506.jpg" />
+    <Content Include="static\poco\pic\20180421\IMG_20180421_113510.jpg" />
+    <Content Include="static\uploadfile\20161012132452515_real.png" />
+    <Content Include="static\uploadfile\20170505111105950_real.jpg" />
+    <Content Include="static\poco\20180503134429.jpg" />
     <Content Include="static\poco\7.jpg" />
     <Content Include="static\poco\8.jpg" />
     <Content Include="static\poco\9.jpg" />
@@ -133,6 +296,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
